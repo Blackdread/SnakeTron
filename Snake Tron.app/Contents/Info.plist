@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="1.0">
+<dict>
+<key>CFBundleDevelopmentRegion</key>
+<string>en</string>
+<key>CFBundleName</key>
+<string>SnakeTron</string>
+<key>CFBundleVersion</key>
+<string>1.0.0</string>
+<key>CFBundleShortVersionString</key>
+<string>SnakeTron 1.0.0</string>
+<key>CFBundleExecutable</key>
+<string>JavaApplicationStub</string>
+<key>CFBundlePackageType</key>
+<string>APPL</string>
+<key>CFBundleSignature</key>
+<string>????</string>
+<key>CFBundleGetInfoString</key>
+<string>SnakeTron 1.0.0</string>
+<key>CFBundleIconFile</key>
+<string>favicon.icns</string>
+<key>CFBundleAllowMixedLocalizations</key>
+<true/>
+<key>CFBundleInfoDictionaryVersion</key>
+<string>6.0</string>
+<key>CFBundleIdentifier</key>
+<string>SnakeTron</string>
+<key>LSHasLocalizedDisplayName</key>
+<true/>
+<key>CFBundleDisplayName</key>
+<string>SnakeTron</string>
+<key>Java</key>
+<dict><key>MainClass</key>
+<string>SnakeTron.Launch</string>
+<key>ClassPath</key>
+<string>$APP_PACKAGE/Contents/Resources/Java/SnakeTron.jar:</string>
+<key>Properties</key>
+<dict><key>sun.java2d.noddraw</key>
+<string>true</string>
+<key>sun.java2d.d3d</key>
+<string>false</string>
+<key>sun.java2d.opengl</key>
+<string>false</string>
+<key>sun.java2d.pmoffscreen</key>
+<string>false</string>
+</dict>
+<key>VMOptions</key>
+<string>-Xms512M -Xmx1024M</string>
+<key>JVMVersion</key>
+<string>1.5+</string>
+<key>JVMArchs</key>
+<array><string>i386</string>
+<string>ppc</string>
+</array>
+</dict>
+</dict>
+</plist>
